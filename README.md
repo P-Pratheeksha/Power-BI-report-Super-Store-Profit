@@ -1,6 +1,7 @@
 # Superstore Profit Report
 This Power BI report analyzes the profit trends of a superstore using sales data. As a beginner, I created this project to explore how to build reports and visualizations in Power BI.
 
+
 **Features**
 **Visualizations Included:**
 
@@ -33,6 +34,7 @@ o	Total Sales
 o	Total Profit
 
 o	Total Quantity Sold
+
 
 **Data Source**
 
